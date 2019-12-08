@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ny Times</string>
+
+    <string name="ny_api">xY3eYr074dBiAhWeyCMlBCOLuyFLuKCe</string>
+    <string name="read_more">Read more...</string>
+    <string name="nav_most_popular">Most Popular</string>
+    <string name="activity_title_ny_times_most_popular_list">NY Times Most Popular</string>
+    <string name="activity_title_ny_times_most_popular_detail">NY Times Most Popular</string>
+    <string name="error_message">Loading most popular article was unsuccessful</string>
+    <string name="action_retry">Retry</string>
+    <string name="cont_decoration" translatable="false">Decoration</string>
+
+    <string-array name="sections">
+            <item>All-Sections</item>
+            <item>Technology</item>
+            <item>Travel</item>
+            <item>Movies</item>
+            <item>Opinion</item>
+            <item>Food</item>
+            <item>Style</item>
+            <item>U.S.</item>
+            <item>Books</item>
+            <item>Real-Estate</item>
+    </string-array>
+</resources>

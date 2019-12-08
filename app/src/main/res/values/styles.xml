@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="TextAppearance.Details.Date" parent="@style/TextAppearance.AppCompat.Small">
+        <item name="android:fontFamily">@font/proxima_nova_soft_regular</item>
+    </style>
+
+    <style name="TextAppearance.Details.Text" parent="@style/TextAppearance.AppCompat.Subhead">
+    <item name="android:fontFamily">@font/proxima_nova_soft_regular</item>
+    </style>
+
+
+    <style name="TextAppearance.Details.Title" parent="@style/TextAppearance.AppCompat.Headline">
+    <item name="android:fontFamily">@font/proxima_nova_soft_regular</item>
+    </style>
+
+    <style name="mytextView" parent="TextAppearance.AppCompat" tools:ignore="PrivateResource">
+    <item name="android:fontFamily">@font/proxima_nova_soft_regular</item>
+    </style>
+
+
+</resources>
